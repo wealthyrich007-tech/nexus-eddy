@@ -1,0 +1,8 @@
+{
+  "name": "DGM Nexus",
+  "description": "Enterprise Immigration Platform for the Direction Générale de Migration (DRC). Features real-time border analytics, document verification, and AI-assisted operations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
